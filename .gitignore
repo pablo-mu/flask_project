@@ -2,3 +2,4 @@ flask_env/
 small_tutorial/instance
 small_tutorial/static
 small_tutorial/templates
+.env
